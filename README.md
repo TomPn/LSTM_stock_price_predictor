@@ -10,7 +10,7 @@ The hyperparameters are tuned using keras tuner so that the result has the **low
 
 ## Features
 
-US Price Index, Interest Rate, Consumer Price Index, CBOE Volatility Index, Open Price, and Close Pirce.
+US Price Index, Interest Rate, Consumer Price Index, CBOE Volatility Index, and Close Pirce.
 
 ## Notes
 
